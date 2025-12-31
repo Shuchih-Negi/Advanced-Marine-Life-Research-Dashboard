@@ -302,12 +302,6 @@ marine-life-dashboard/
 ├── utils.py               # Data loading and helper functions
 ├── requirements.txt       # Python dependencies
 ├── README.md             # This file
-├── QUICKSTART.md         # Quick setup guide
-│
-└── (future additions)
-    ├── data/             # Sample datasets
-    ├── tests/            # Unit tests
-    └── docs/             # Additional documentation
 ```
 
 ---
