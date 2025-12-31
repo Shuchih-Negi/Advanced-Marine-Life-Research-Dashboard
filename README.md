@@ -304,23 +304,6 @@ marine-life-dashboard/
 ├── README.md             # This file
 ```
 
----
-
-## 🖼️ Screenshots
-
-### Main Dashboard
-![Dashboard Overview](https://via.placeholder.com/800x400.png?text=Upload+Your+Screenshot+Here)
-
-### Indian Shores Heatmap
-![Indian Shores Analysis](https://via.placeholder.com/800x400.png?text=Upload+Your+Screenshot+Here)
-
-### PCA Analysis
-![PCA Visualization](https://via.placeholder.com/800x400.png?text=Upload+Your+Screenshot+Here)
-
-> **Note:** Replace placeholder images with actual screenshots of your dashboard
-
----
-
 ## 🛠️ Customization
 
 ### Changing Port Number
@@ -426,30 +409,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-- **OBIS** for marine biodiversity data standards
-- **Plotly** for interactive visualization library
-- **Gradio** for making ML/data science interfaces accessible
-- **Marine researchers worldwide** for contributing to open biodiversity databases
-
----
-
-## 📚 Citation
-
-If you use this dashboard in your research, please cite:
-
-```bibtex
-@software{marine_life_dashboard,
-  author = {Your Name},
-  title = {Advanced Marine Life Research Dashboard},
-  year = {2024},
-  url = {https://github.com/yourusername/marine-life-dashboard}
-}
-```
-
----
-
 ## 📧 Contact
 
 **Project Maintainer:** Your Name
@@ -457,27 +416,6 @@ If you use this dashboard in your research, please cite:
 - GitHub: [@yourusername](https://github.com/yourusername)
 - Email: your.email@example.com
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
-## 🗺️ Roadmap
-
-### Planned Features
-
-- [ ] Export analysis reports to PDF
-- [ ] Real-time data streaming support
-- [ ] Species co-occurrence network analysis
-- [ ] Integration with OBIS/GBIF APIs
-- [ ] Machine learning species prediction
-- [ ] Multi-language support
-- [ ] Mobile-responsive design
-- [ ] Docker containerization
-
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/marine-life-dashboard&type=Date)](https://star-history.com/#yourusername/marine-life-dashboard&Date)
 
 ---
 
